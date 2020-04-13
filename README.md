@@ -1,5 +1,13 @@
 # OnnorokomSMS notifications channel for Laravel
 
+[![Latest Stable Version](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/v/stable)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+[![Total Downloads](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/downloads)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+[![Latest Unstable Version](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/v/unstable)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+[![License](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/license)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+[![Monthly Downloads](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/d/monthly)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+[![Daily Downloads](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/d/daily)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+[![composer.lock](https://poser.pugx.org/dgvai/laravel-notifcation-channel-onnorokomsms/composerlock)](https://packagist.org/packages/dgvai/laravel-notifcation-channel-onnorokomsms)
+
 This package makes it easy to send sms via [OnnorokomSMS](https://www.onnorokomsms.com) bulk SMS Service (Bangladesh) with Laravel 5.5+, 6.x and 7.x.
 
 ## Contents
