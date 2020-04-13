@@ -69,7 +69,7 @@ class OrderPlaced extends Notification
         return [OnnorokomSMSChannel::class];
     }
 
-    public function toTwilio($notifiable)
+    public function toOnnorokomSMS($notifiable)
     {
         return new OnnorokomSMS('Your order has been placed!');
     }
