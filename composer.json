@@ -1,5 +1,5 @@
 {
-    "name": "dgvai/laravel-notifcation-channel-onnorokomsms",
+    "name": "dgvai/laravel-notification-channel-onnorokomsms",
     "description": "Laravel Notification Channel Package For OnnorokomSMS BD",
     "type": "library",
     "license": "MIT",
