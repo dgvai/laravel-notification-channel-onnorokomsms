@@ -23,7 +23,7 @@ This package makes it easy to send sms via [OnnorokomSMS](https://www.onnorokoms
 You can install the package via composer:
 
 ``` bash
-composer require dgvai/laravel-notifcation-channel-onnorokomsms
+composer require dgvai/laravel-notification-channel-onnorokomsms
 ```
 
 ### Setting up your configuration
